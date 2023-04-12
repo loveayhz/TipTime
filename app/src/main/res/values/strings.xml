@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">TipTime</string>
     <string name="bill_amount">Bill amount</string>
+    <string name="tip_percent">Tip(%)</string>
     <string name="calculate_tip">Calculate Tip</string>
     <string name="tip_amount">Tip Amount: %s</string>
 </resources>
